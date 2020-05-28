@@ -62,7 +62,12 @@
         "nytimes/covid-19-data",
         "cipriancraciun/covid19-datasets",
         "colaboradados/colaboradados.github.io",
-        "jmcastagnetto/covid-19-peru-data"
+        "jmcastagnetto/covid-19-peru-data",
+        "UCSD-AI4H/COVID-CT",
+        "openZH/covid_19",
+        "ieee8023/covid-chestxray-dataset",
+        "FoldingAtHome/coronavirus",
+        "cjvanlissa/COVID19_metadata"
       ]
     },
     {
@@ -77,7 +82,8 @@
         "Mythobeast/epidemicmodels",
         "institutefordiseasemodeling/covasim",
         "p-j-r/covid-19",
-        "funcional-health-analytics/covid19-analytics"
+        "funcional-health-analytics/covid19-analytics",
+        "WARMTeam/CoVid19"
       ]
     },
     {
